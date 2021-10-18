@@ -12,7 +12,7 @@ who are indeed of jobs.
 Rather checking number of job postings and applying,JIVIKA provides you the job which you are a best fit in,
 with a customize option,increasing your chances of working.You can even carry a experience from your 
 past employment verification.
- 
+   
 What makes this application better than other? 
 # FEAUTURE
 ### JOB MATCHING TOOLS: 
