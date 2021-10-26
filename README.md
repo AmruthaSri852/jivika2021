@@ -2,7 +2,7 @@
 This application is to introduce a new easy way in searching jobs for all daily wagers and laborers.
 # OVERVIEW    
 "JIVIKA" celebrating chances with infinite choices for all.  
-This application is for domestic drudgery wages.
+This application is for domestic drudgery wages. 
 The project offers help to the poorer section of society which comprises almost 37% Indian population 
 which is mainly composed of the labor class, small-scale technicians, and the daily wagers by filling 
 the institutional void of a presence of a digital community in the laborer - recruiter paradigm.
