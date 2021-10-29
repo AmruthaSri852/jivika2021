@@ -5,7 +5,7 @@ This application is to introduce a new easy way in searching jobs for all daily 
 This application is for domestic drudgery wages. 
 The project offers help to the poorer section of society which comprises almost 37% Indian population 
 which is mainly composed of the labor class, small-scale technicians, and the daily wagers by filling 
-the institutional void of a presence of a digital community in the laborer - recruiter paradigm.
+the institutional void of a presence of a digital community in the laborer - recruiter paradigm. 
 JIVIKA helps the struggling job seekers to find their profitable deals in a easier way.
 Our goal is to make a job linkage and career progression support to millions of daily wages and labourers 
 who are indeed of jobs.
