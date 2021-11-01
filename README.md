@@ -8,7 +8,7 @@ which is mainly composed of the labor class, small-scale technicians, and the da
 the institutional void of a presence of a digital community in the laborer - recruiter paradigm. 
 JIVIKA helps the struggling job seekers to find their profitable deals in a easier way.
 Our goal is to make a job linkage and career progression support to millions of daily wages and labourers 
-who are indeed of jobs.
+who are indeed of jobs. 
 Rather checking number of job postings and applying,JIVIKA provides you the job which you are a best fit in,
 with a customize option,increasing your chances of working.You can even carry a experience from your 
 past employment verification.
